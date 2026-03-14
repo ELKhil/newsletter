@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-03-14T12:30:03Z",
+  "subject": "L'IA s'installe dans vos API : vers des architectures agentiques et souveraines",
+  "editorial": "L'intelligence artificielle franchit une étape cruciale : elle sort enfin de la fenêtre de chat pour s'installer directement dans nos terminaux et nos architectures API. Avec l'arrivée du Model Context Protocol dans API Platform 4.3 et des outils comme Gemini CLI ou Claude Code Remote, nous assistons à la naissance de l'ère des agents autonomes. Ce n'est plus seulement une question de génération de texte, mais de capacité d'action sur le monde réel et le code source.\\n\\nCette transition vers l'agentique redéfinit la manière dont nous concevons nos services. En exposant nos ressources via MCP, nous ne construisons plus des API uniquement pour des humains ou d'autres services déterministes, mais pour des modèles capables de raisonner et d'enchaîner des actions. Cela impose une rigueur accrue, notamment via les tests d'architecture logicielle, pour garantir que ces agents ne dérivent pas hors des sentiers battus.\\n\\nParallèlement, cette automatisation croissante interroge notre valeur sur le marché. Les conseils de Shirley Almosni Chiche sur la négociation salariale et le parcours d'Eric Dykstein rappellent que, malgré l'omniprésence des outils, la compétence humaine reste le pivot. Savoir débugger son salaire ou comprendre les attentes d'un recruteur tech devient aussi vital que de maîtriser le sharding sur MariaDB ou les layouts Hugo.\\n\\nEnfin, le paysage du B2B et de la souveraineté numérique nous rappelle que la tech ne vit pas en vase clos. Le Dark Social et l'autonomie des décideurs transforment la manière dont nous adoptons ces technologies. Pour le développeur moderne, la veille ne doit plus être purement technique, mais stratégique, intégrant les enjeux de visibilité et d'indépendance technologique. L'avenir appartient à ceux qui sauront piloter ces agents tout en gardant une vision holistique de leur écosystème.",
+  "highlights": [
+    {
+      "title": "Sortie d’API Platform 4.3 : Focus sur l’IA",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/83f686a0487a/",
+      "analysis": "L'intégration du Model Context Protocol est une révolution silencieuse. En permettant aux modèles de langage de consommer nativement des ressources API, on réduit drastiquement la complexité du code nécessaire aux agents. C'est le début d'un web véritablement interopérable pour les intelligences artificielles."
+    },
+    {
+      "title": "Maîtriser le Gemini CLI et son puissant Plan Mode",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/cb0f151ebde8/",
+      "analysis": "Le mode Plan change radicalement la donne par rapport aux simples complétions de code. L'outil ne se contente plus de suggérer, il propose des stratégies de modification globales du projet directement dans le terminal. Pour le développeur, c'est un gain de productivité massif sur les tâches de refactoring complexes."
+    },
+    {
+      "title": "Adopter les tests d'architecture logicielle",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/8fa539bbe440/",
+      "analysis": "Automatiser la vérification des patterns architecturaux est le chaînon manquant entre le linter et la revue de code. Cela permet de figer les décisions structurelles et d'éviter que la dette technique ne s'accumule de manière invisible. C'est une pratique indispensable pour les projets qui s'inscrivent dans la durée."
+    },
+    {
+      "title": "Le Parcours d’Achat B2B Caché : Décrypter les Nouvelles Habitudes des Décideurs",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/d64241ec5e39/",
+      "analysis": "L'importance du Dark Social remet en question toute la stratégie de visibilité des entreprises tech. Si 70% du parcours d'achat se fait dans l'ombre, la priorité n'est plus au tracking traditionnel mais à la présence dans les communautés privées. Les experts techniques y deviennent les premiers prescripteurs de confiance."
+    },
+    {
+      "title": "Débuggez votre salaire !",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/7f6c47d393fa/",
+      "analysis": "Shirley Almosni Chiche propose un changement de paradigme en évacuant l'affectif de la discussion financière. En se concentrant sur l'apport de valeur métier plutôt que sur des justifications personnelles, le candidat renforce sa posture d'expert. C'est une compétence de soft skill indispensable dans un marché tech en pleine mutation."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Refonte de la page Conférences : data-driven avec Hugo",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/8d7c289cdfa4/",
+      "summary": "Guide sur la restructuration d'un blog technique en mode data-driven avec Hugo et YAML."
+    },
+    {
+      "title": "Retour sur Touraine Tech 2026",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/be4c9fc65223/",
+      "summary": "Synthèse complète des interventions tech marquantes de l'édition 2026 de cette conférence régionale."
+    },
+    {
+      "title": "MACI #156 : Agents IA, OpenAPI et WebAssembly",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/e41292d64352/",
+      "summary": "Podcast traitant de l'impact des agents IA via OpenAPI et des performances de WebAssembly."
+    },
+    {
+      "title": "MariaDB : Du serveur primaire au sharding avec Sylvain Arbaudie",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/a59c4b8097b1/",
+      "summary": "Retour d'expérience sur l'évolution des architectures MariaDB, du serveur unique au sharding."
+    },
+    {
+      "title": "Réorganisation des podcasts et lives sur Zwindler's Reflection",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/ce104dab957b/",
+      "summary": "Présentation de la nouvelle organisation thématique des contenus multimédias pour une meilleure navigation."
+    },
+    {
+      "title": "Refonte et organisation des publications de Zwindler",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/8dbe06596536/",
+      "summary": "Focus sur la séparation des écrits techniques et des autres formats pour améliorer la maintenabilité."
+    },
+    {
+      "title": "La veille technologique de Wittouck - Mars 2026",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/558196eec4ef/",
+      "summary": "Analyse des enjeux de souveraineté numérique stratégique et sélection de ressources pour mars 2026."
+    },
+    {
+      "title": "Claude Code Remote : Coder depuis n'importe quel appareil",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/86b67a0a022b/",
+      "summary": "Tutoriel pour piloter l'assistance IA d'Anthropic à distance depuis n'importe quel terminal mobile."
+    },
+    {
+      "title": "Café Tech avec Imen : Du développement au recrutement tech",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/6642aea9985e/",
+      "summary": "Discussion sur l'avantage stratégique d'un passé de développeur pour réussir dans le recrutement technique."
+    }
+  ]
+}
