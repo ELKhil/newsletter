@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-04-07T07:37:27Z",
+  "subject": "L'IA devient votre cliente : préparez-vous au commerce agentique",
+  "editorial": "On assiste à un basculement fondamental dans l'architecture même du web. Pendant vingt ans, nous avons optimisé chaque pixel pour l'œil humain, cherchant la friction minimale pour convertir un utilisateur en client. Aujourd'hui, avec l'émergence du commerce agentique, cette priorité s'efface devant une nécessité technique brute : rendre nos services parfaitement lisibles par des machines autonomes. Ce n'est plus seulement une question d'ergonomie, mais de survie économique dans un écosystème où l'acheteur final est de plus en plus souvent un algorithme.\n\nCe changement de paradigme se reflète également dans nos outils de création quotidienne. L'arrivée de Google Stitch marque la fin du design artisanal au profit d'une direction créative assistée par IA. Le rôle du designer évolue radicalement vers celui d'un architecte de systèmes, capable de piloter des modèles pour générer des interfaces complexes en quelques secondes. On passe de l'exécution pure à la curation d'intentions, une transition qui exige une maîtrise accrue des systèmes de design et une vision stratégique plus que de simples compétences graphiques manuelles.\n\nMais cette automatisation galopante du commerce et du design ne va pas sans heurts. La prise de conscience internationale, illustrée par les signaux récents venant de Chine sur la gouvernance de l'IA, montre que la sécurité n'est plus un sujet de niche pour chercheurs en éthique. Voir Pékin appeler à un cadre mondial de sécurité et à un bouton d'arrêt souligne l'urgence de sécuriser ces agents avant qu'ils ne deviennent les acteurs principaux de notre économie et de nos infrastructures critiques sans garde-fous coordonnés.\n\nPour les développeurs et les décideurs, l'heure est à l'adaptation pragmatique. On ne parle plus simplement de SEO, mais de AEO (Agent Engine Optimization). Vos API, vos catalogues de données structurées et vos protocoles de sécurité deviennent vos véritables vitrines prioritaires. L'interopérabilité n'est plus une option technique ou un luxe de développeur, c'est l'atout commercial majeur de la prochaine décennie. La tech de demain se construit pour être consommée par l'IA, tout en restant fermement sous notre contrôle politique et sécuritaire.",
+  "highlights": [
+    {
+      "title": "L'ingénierie des vitrines à l'ère du commerce agentique",
+      "source_name": "O'Reilly Radar — AI/ML",
+      "source_url": "https://www.oreilly.com/radar/engineering-storefronts-for-agentic-commerce/",
+      "analysis": "Le passage du B2C au B2A (Business-to-Agent) va transformer radicalement le développement web. Au lieu de soigner l'esthétique visuelle, les entreprises devront privilégier des API robustes et des données structurées pour que les agents IA puissent comparer et acheter de manière autonome. C'est l'émergence de l'Agent Engine Optimization (AEO), un nouveau champ de bataille pour la visibilité numérique."
+    },
+    {
+      "title": "Google Stitch : Le futur du design système assisté par l'IA",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/15db9a15a119/",
+      "analysis": "Google Stitch n'est pas qu'un simple outil de plus, c'est une redéfinition du workflow de design. En permettant de passer de la direction créative à la génération d'interface, il réduit drastiquement le temps de production. Pour les designers, cela signifie délaisser les tâches répétitives pour se concentrer sur la cohérence des systèmes et l'identité visuelle de marque."
+    },
+    {
+      "title": "Gouvernance de l'IA : La Chine rejoint le consensus sur la sécurité",
+      "source_name": "MIRI Blog",
+      "source_url": "https://intelligence.org/2026/04/06/promising-signals-on-ai-governance-from-china/",
+      "analysis": "Le ralliement de la Chine à une gouvernance mondiale sur la sécurité de l'IA est un tournant géopolitique majeur. La reconnaissance mutuelle des risques existentiels et de la nécessité d'un contrôle humain permanent sur les armes nucléaires pilotées par IA montre que la sécurité technologique surpasse désormais la simple compétition économique. C'est un signal fort pour la création de standards internationaux rigoureux."
+    }
+  ],
+  "resources": [
+    {
+      "title": "Veille tech et focus sur les startups japonaises avec Émilien de Retyc",
+      "source_name": "Flux YoanDev",
+      "source_url": "https://flux.yoandev.co/article/2588b27df008/",
+      "summary": "Un tour d'horizon complet sur l'entrepreneuriat tech, l'écosystème japonais et les dernières avancées Docker et Scala."
+    }
+  ]
+}
