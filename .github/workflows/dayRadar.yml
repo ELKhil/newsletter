@@ -1,4 +1,4 @@
-name: DayBrief Newsletter
+name: Symfony & PHP Radar
 
 on:
   workflow_dispatch:
