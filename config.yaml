@@ -1,37 +1,27 @@
 gemini:
-  model: gemini-3-flash-preview
+  model: gemini-2.0-flash
 newsletter:
   language: fr
-  max_highlights: 5
-  default_lookback: 48h
-  editorial_prompt: A casual, tech-savvy tone with a focus on practical insights.
+  max_highlights: 3
+  default_lookback: 24h
+  editorial_prompt: "Ton casual et technique, orienté développeurs PHP/Symfony. Focus sur les insights pratiques et les nouveautés concrètes."
 mail:
-  subject_prefix: '[DayBrief]'
+  subject_prefix: '☕ Morning PHP'
 sources:
   rss:
     - name: Flux YoanDev
       url: https://flux.yoandev.co/rss.xml
-    - name: Marcus on AI
-      url: https://garymarcus.substack.com/feed
-    - name: Don't Worry About the Vase
-      url: https://thezvi.substack.com/feed
     - name: Simon Willison's Weblog
       url: https://simonwillison.net/atom/everything/
-    - name: Import AI
-      url: https://importai.substack.com/feed
-    - name: BAIR Blog
-      url: https://bair.berkeley.edu/blog/feed.xml
-    - name: MIRI Blog
-      url: https://intelligence.org/feed
     - name: O'Reilly Radar — AI/ML
       url: https://www.oreilly.com/radar/topics/ai-ml/feed/index.xml
     - name: Brent Roose — Stitcher.io
       url: https://stitcher.io/rss
-    - name: The PHP Foundation
-      url: https://thephp.foundation/blog/feed.xml
     - name: PHP Architect
       url: https://www.phparch.com/feed/
     - name: Symfony Blog
       url: https://feeds.feedburner.com/symfony/blog
+    - name: The PHP Foundation
+      url: https://thephp.foundation/feed.xml
   youtube: []
   podcasts: []
