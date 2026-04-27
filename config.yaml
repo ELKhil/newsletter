@@ -2,7 +2,7 @@ gemini:
   model: gemini-3-flash-preview
 newsletter:
   language: fr
-  max_highlights: 3
+  max_highlights: 2
   default_lookback: 24h
   editorial_prompt: "Ton casual et technique, orienté développeurs PHP/Symfony. Focus sur les insights pratiques et les nouveautés concrètes."
 mail:
