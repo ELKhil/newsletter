@@ -3,7 +3,7 @@ name: Symfony & PHP Radar
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 7 * * *" # Every Monday at 7:00 UTC@
+    - cron: "0 7 * * *" # Every Day at 7:00 UTC@
     
 permissions:
   contents: write
