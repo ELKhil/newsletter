@@ -1,8 +1,6 @@
 # Secrets locaux — ne jamais commiter
 .env
 
-# Newsletters générées
-output/
 
 # macOS
 .DS_Store
